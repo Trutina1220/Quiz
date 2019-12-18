@@ -1,0 +1,11 @@
+ID,Name,Position,Salary.
+s0001,Abel,Staff,4500000.
+s0002,Bently,Staff,5000000.
+s0003,Charlie,Staff,5000000.
+s0004,Dickson,Officer,8500000.
+s0005,Elang,Officer,8500000.
+s0006,Fiorent,Officer,8500000.
+s0007,Gary,Officer,8500000.
+s0008,Harith,Manager,15000000.
+s0009,Inka,Manager,15000000.
+s0010,Jason,Manager,15000000.
